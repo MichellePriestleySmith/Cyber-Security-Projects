@@ -1,4 +1,4 @@
-# imcrypt
+# Image Encrytion Project
 
 image encryption cli tool, supports the following operations
 
