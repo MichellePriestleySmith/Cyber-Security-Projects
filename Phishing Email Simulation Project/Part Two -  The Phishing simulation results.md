@@ -1,4 +1,4 @@
-# Task Two
+# Part Two
 
 In task one, I designed a phishing email for a phishing simulation.
 The results of the simulation have been analysed, and it's evident that certain departments have a higher susceptibility to falling for phishing emails.
