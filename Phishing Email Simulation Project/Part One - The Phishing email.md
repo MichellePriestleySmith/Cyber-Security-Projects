@@ -1,9 +1,11 @@
-# The Scenario
+# The Scenario 
 
 In this project, I will be acting as an analyst in a Security Awareness Team for a credit card company.
 
 The Chief Security Officer (CSO) relies on the team to help staff learn how to identify and report security threats.
 
+<br/>
+#Part one
 <br/>
 <h2>How do we identify phishing emails?</h2>
 
