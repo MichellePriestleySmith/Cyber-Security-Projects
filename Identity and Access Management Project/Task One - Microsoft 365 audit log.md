@@ -1,9 +1,12 @@
-# TaskPart One
+# Task One
 
-<h2> One - Setting up Microsoft 365 audit log</h2>
+<h2>Setting up Microsoft 365 audit log</h2>
 In this task I successfully set up the Audit log capability in Microsoft 365.
 Despite documentation suggesting that the audit log is enabled by default, it was necessary to manually enable it for most users. 
 This is crucial as Microsoft 365 utilizes audit logs for user insights, policy enforcement, and analytics.
+
+<br/>
+<br/>
 
 <h3>Enabling the Audit log</h3>
 
