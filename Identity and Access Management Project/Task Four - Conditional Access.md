@@ -1,68 +1,49 @@
 # Task Four
 
 <h2>Microsoft Entra Conditional Access</h2>
-
-This set of tasks focuses on exploring the capabilities of Microsoft Entra, specifically diving into the access management features of Microsoft Entra ID with a focus on Conditional Access. 
-The task scenario involved experiencing Conditional Access Multi-Factor Authentication (MFA) from both an administrator and a user perspective. </br>
-As the admin, the primary task was to create a policy requiring users to undergo MFA when accessing Microsoft Admin portals.  </br>
-The user perspective involved understanding the impact of the Conditional Access policy, including the registration process for MFA. </br>
+<h2>Objective</h2>
+ 
+This series of tasks focused on a thorough exploration of Microsoft Entra, specifically delving into the access management features of Microsoft Entra ID with a concentrated emphasis on Conditional Access. The scenario involved experiencing Conditional Access Multi-Factor Authentication (MFA) from both an administrative and a user perspective.
+</br> 
 </br>
-
+ 
 <h2>Part one</h2>
+<h3> Password Reset for User 'Debra Berger'</h3>
+ 
+In this task, I facilitated a password reset for the user 'Debra Berger' to enable her initial sign-in for subsequent activities.</br> 
 
-In this task I reset the password for the user 'Debra Berger' to allow initial sign-in for subsequent tasks.
-</br>
+As the administrator, I utilised Microsoft Edge to navigate to https://entra.microsoft.com, where I signed in using administrative credentials. Following this, I reset Debra Berger's password, documenting the new password for future reference. This step ensured a seamless transition to subsequent tasks by providing access to the specified user account, thus facilitating the administrator's ability to configure Conditional Access policies.</br> 
 
-Acting as the administrator, I opened Microsoft Edge, navigated to https://entra.microsoft.com, and signed in using admin credentials. </br>
-Following this, I reset Debra Berger's password, as her initial password was unknown. </br>
-The new password was noted for future use. </br>
-This task ensured a seamless transition to subsequent tasks by providing access as the specified user. </br>
-</br>
-
-This task successfully set the groundwork for further exploration by enabling access to the user account, 
-facilitating the admin's ability to configure Conditional Access policies.
-</br>
+This task served as the foundation for further exploration, granting access to the user account and allowing the administrator to proceed with the configuration of Conditional Access policies.
+</br> 
 </br>
 
 <h2>Part Two</h2>
+<h3>Creation of Conditional Access Policy for Multi-Factor Authentication</h3>
 
-The purpose of this task was to create a Conditional Access policy in Azure AD, focusing on Multi-Factor Authentication.
-</br>
+The objective of this task was to craft a Conditional Access policy in Azure AD, with a specific focus on Multi-Factor Authentication.</br>
 
-Still acting as the administrator, I navigated to the Microsoft Entra admin center and created a new Conditional Access policy named "MFA Test Policy." </br>
-This policy targeted the specific user, Debra Berger, again, and applied to Microsoft Admin Portals, specifically Azure. </br>
-The policy was configured to grant access only after completing Multi-Factor Authentication (MFA). </br>
-The final part of the process involved selecting users, defining target resources, conditions, and access controls. Finally, the policy was enabled. </br>
-</br>
+Continuing as the administrator, I navigated to the Microsoft Entra admin center and formulated a new Conditional Access policy named "MFA Test Policy." This policy targeted the user Debra Berger and was designed for Microsoft Admin Portals, specifically Azure. It was configured to grant access only after completing Multi-Factor Authentication (MFA). The process involved selecting users, defining target resources, conditions, and access controls, with the final step being the activation of the policy. </br>
 
-From this task I gained insights into the creation and implementation of a Conditional Access policy, 
-demonstrating the admin's ability to configure security measures, specifically requiring MFA for accessing designated Microsoft Admin Portals.
+This task provided insights into the creation and implementation of a Conditional Access policy, showcasing the administrator's ability to configure robust security measures, particularly the requirement of MFA for accessing designated Microsoft Admin Portals.
 </br>
 </br>
 
 <h2>Part Three</h2>
+<h3>User Experience of Conditional Access Policy</h3>
 
-In this task I experienced the impact of the Conditional Access policy as the user, Debra Berger.
-</br>
+In this task, I assumed the role of the user, Debra Berger, to understand the impact of the Conditional Access policy. </br> 
 
-Now acting as the user, Debra Berger, I signed in to the Microsoft 365 portal without encountering MFA since it wasn't part of the policy. </br>
-However, when attempting to access the Azure portal, MFA was triggered, leading to the registration process. </br>
-I selected a different method for MFA, completed the registration, and successfully accessed the Azure portal, adhering to the Conditional Access policy. </br>
-The task concluded with signing out.
-</br>
+Acting as the user, I signed in to the Microsoft 365 portal without encountering MFA, as it wasn't part of the policy. However, when attempting to access the Azure portal, MFA was triggered, initiating the registration process. I selected a preferred method for MFA, completed the registration, and successfully accessed the Azure portal, adhering to the Conditional Access policy. The task concluded with a sign-out.</br> 
 
-This task showcased the user's perspective, highlighting the impact of the Conditional Access policy on MFA requirements for accessing Microsoft Admin Portals.
+This task offered a valuable perspective from the user's standpoint, highlighting the impact of the Conditional Access policy on MFA requirements for accessing Microsoft Admin Portals.
 </br>
 </br>
 
 <h2>Conclusion</h2>
 
-This set of tasks provided a comprehensive understanding of setting up a Conditional Access policy that mandates MFA for accessing Microsoft Admin portals. 
-It covered the administrative configuration process and the user's experience during MFA registration, emphasizing the policy's impact on accessing the Azure portal. 
-The hands-on tasks enhanced knowledge of Microsoft Entra's security features, specifically Conditional Access, 
-contributing valuable skills to enhance cybersecurity proficiency.
+This task constituted an in-depth exploration of Microsoft Entra ID, highlighting its seamless integration with Microsoft 365. It underscored the flexibility of accessing Microsoft Entra ID features through both the Microsoft 365 admin portal and the Azure portal. The user walkthrough included creating a new user, configuring settings, exploring role options, and managing licences. This hands-on experience solidified my understanding of Microsoft Entra ID capabilities, particularly in user and licence management.
 </br>
 </br>
-
 
 
