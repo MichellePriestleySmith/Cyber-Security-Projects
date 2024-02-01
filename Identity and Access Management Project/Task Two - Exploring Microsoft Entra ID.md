@@ -9,7 +9,8 @@ The lab aimed to familiarize users with the essentials of Azure AD features and 
 
 <br/>
 
-<h3>Part 1: Create and Configure a User</h3>
+<h2>Part One</h2> 
+<h3>Create and Configure a User</h3>
 
 This task aimed to demonstrate the process of creating a user, configuring user properties, assigning to groups, exploring available roles, and managing licenses. 
 The goal was to provide a foundation for understanding user management in Microsoft Entra ID.
@@ -26,7 +27,8 @@ Finally I verified license assignments and explored user configuration options.<
 By completing this task, I successfully created and configured a user in Microsoft Entra ID, demonstrating proficiency in user management, group assignments, and license administration. This hands-on experience enhances my understanding of Microsoft Entra ID capabilities.
 
 <br/>
-<h3>Part 2: Initial Sign-In as Sara Perez</h3>
+<h2>Part Two</h2> 
+<h3>Initial Sign-In as Sara Perez</h3>
 
 The objective of this task was to simulate the first sign-in experience for a newly created user (Sara Perez). 
 It involved updating the password and navigating through the sign-in process to ensure a seamless user experience.
@@ -41,7 +43,7 @@ Finally I explored the Microsoft 365 environment.<br/>
 Completing this task allowed me to experience the user's journey, reinforcing the importance of a smooth sign-in process and password management. This practical knowledge is valuable for troubleshooting and user support.
 <br/>
 
-<h3>Concusion</h3>
+<h2>Concusion</h2>
 This task provided an initial exploration of Microsoft Entra ID, emphasizing the seamless integration with Microsoft 365. It highlighted the flexibility of accessing Microsoft Entra ID features through both the Microsoft 365 admin portal and the Azure portal. The user walkthrough included creating a new user, configuring settings, exploring role options, and managing licenses. This hands-on experience solidified my understanding of Microsoft Entra ID capabilities, particularly in user and license management.
 
 
