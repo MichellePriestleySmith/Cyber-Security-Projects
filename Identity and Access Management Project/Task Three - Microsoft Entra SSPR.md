@@ -24,7 +24,7 @@ By completing this task, I gained insight into the administrative configuration 
 
 <h2>Part Two</h2>
 
-This task aimed to demonstrate the administrative process of adding a user to the SSPR security group, enabling them to utilize the SSPR feature.
+This task demonstrated the administrative process of adding a user to the SSPR security group, enabling them to utilize the SSPR feature.
 </br>
 
 In this task, I simulated managing user access within the Microsoft Entra environment. </br>
@@ -40,7 +40,7 @@ Completing this task ensured that the user, Sara Perez, is configured to partici
 
 <h2>Part Three</h2>
 
-This task aimed to simulate the user-side experience of registering for SSPR, providing insights into the registration and authentication processes.
+in this task I wanted to simulate the user-side experience of registering for SSPR, providing insights into the registration and authentication processes.
 </br>
 
 The first thing I did was access the Microsoft 365 login page as Sara Perez. 
@@ -56,7 +56,7 @@ This task provided valuable insights into the user's journey during SSPR registr
  
 <h2>Part Four</h2>
 
-This task is aimed to simulate the user's experience in resetting their password using the SSPR feature.
+The purpose of this task was to simulate the user's experience in resetting their password using the SSPR feature.
 </br>
 
 In this task I initiated the password reset, prompting the system to guide me through verification steps, which were completed through either mobile phone or email authentication. Following successful verification, I entered a new password and confirmed the reset.</br>
@@ -68,6 +68,7 @@ This task gave me a hands-on experience with the user-side password reset functi
 </br>
 
 <h2>Part Five</h2>
+
 In this task I familiarised myself with accessing and analysing audit logs and usage & insights data related to SSPR activities.</br>
 
 Initially, I accessed the admin center and navigated to Password reset > Audit logs, where I reviewed information and available filters to track system activity. 
