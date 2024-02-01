@@ -80,7 +80,7 @@ This task provided insights into how admins can monitor and analyse audit logs a
 </br>
 </br>
 
-<h3>Concusion</h3>
+<h2>Concusion</h2>
 
 In this comprehensive set of tasks, I enabled self-service password reset (SSPR), configured relevant settings, added a user to the SSPR security group, and experienced the user-side processes of SSPR registration and password reset. </br>
 Additionally, I explored the admin perspective by reviewing audit logs and usage & insights data associated with SSPR activities. </br>
