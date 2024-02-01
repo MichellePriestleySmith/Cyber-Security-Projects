@@ -1,31 +1,21 @@
 # Task One
 
-<h2>Setting up Microsoft 365 audit log</h2>
-This task focused on enabling the Audit log capability in Microsoft 365.
-The primary goal was to gain practical experience in activating the audit log, a feature often not enabled by default in lab tenants. The audit log is crucial for tracking user activities and providing insights into policies and analytics within Microsoft 365. 
-This setup aimed to familiarise users with the process of enabling and confirming the status of the audit log.
+<h2>Objective</h2>
+
+This task focused on the configuration of the Microsoft 365 audit log, emphasising the activation of a feature not typically enabled by default in lab environments. The primary aim was to gain practical experience in initiating and validating the status of the audit log—a vital tool for tracking user activities and obtaining insights into policies and analytics within Microsoft 365.
 <br/>
 <br/>
 
-<h2>Enabling the Audit log</h2> 
+<h2>Procedure</h2> 
 
-This task aimed to provide hands-on experience in enabling the audit log in Microsoft 365. It emphasized the importance of this feature for tracking user and admin activities, enabling insights for policies and analytics within the Microsoft 365 environment.
-
-
-To initiate the setup, I opened Microsoft Edge and navigated to admin.microsoft.com, where I signed in using my admin credentials. 
-After accessing the Microsoft 365 admin center, I selected "Show all" from the left navigation pane and proceeded to the Compliance admin center. 
-From there, I accessed the Audit functionality within the Microsoft Purview compliance portal.
-
-Upon verifying the selection of the "New Search" tab, I waited for 2-3 minutes on the Audit page. 
-If auditing was not enabled, a blue bar appeared at the top, prompting me to start recording user and admin activity. 
-I followed this prompt, confirming updates to organization settings if necessary. Once auditing was enabled, the blue bar disappeared.
-
-To confirm the successful setup, I returned to the home page of the Microsoft Purview compliance portal and signed out of Microsoft 365. 
-This setup ensures that the audit log capability is activated, allowing for the tracking of user and admin activities for insights and compliance purposes.
-
+To ensure a hands-on understanding of enabling the audit log in Microsoft 365, I commenced by launching Microsoft Edge and navigating to admin.microsoft.com. Using my admin credentials, I accessed the Microsoft 365 admin center and selected "Show all" from the left navigation pane, directing me to the Compliance admin center. Within this center, I navigated to the Audit functionality within the Microsoft Purview compliance portal. <br/>
+Once on the "New Search" tab, I patiently waited for 2-3 minutes on the Audit page. If auditing was not enabled, a prominent blue bar appeared, prompting me to commence recording user and admin activities. I followed the prompt, making necessary updates to organisation settings if required. Successful activation was confirmed when the blue bar disappeared. <br/>
+To verify the efficacy of the setup, I returned to the home page of the Microsoft Purview compliance portal and signed out of Microsoft 365. This process ensures the activation of the audit log capability, facilitating the tracking of user and admin activities for compliance and insightful analysis.
 <br/>
+<br/>
+
 <h2>Conclusion</h2>
-This setup task effectively covered the process of enabling the audit log capability in Microsoft 365. It highlighted the significance of this feature for user insights, policy enforcement, and analytics insights. The lab emphasized the hands-on experience of navigating through the Microsoft 365 admin center, enabling audit logging, and confirming the successful activation. This knowledge contributes to a better understanding of security and compliance practices within Microsoft 365.
+This setup task comprehensively covered the process of enabling the audit log capability in Microsoft 365. It underscored the importance of this feature for user insights, policy enforcement, and analytics within the Microsoft 365 environment. The lab provided hands-on experience in navigating the Microsoft 365 admin center, enabling audit logging, and confirming successful activation. This acquired knowledge contributes to a heightened understanding of security and compliance practices within the Microsoft 365 ecosystem.
 
 <br/>
 <br/>
