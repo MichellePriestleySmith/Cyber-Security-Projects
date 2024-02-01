@@ -1,37 +1,32 @@
 # Task Three
 
-<h1>Microsoft Entra self-service password reset</h1>
+<h2>Microsoft Entra self-service password reset</h2>
+<h3>Objective</h3>
 
-This Microsoft Entra Self-Service Password Reset (SSPR) task focused on enabling and configuring the SSPR feature in Microsoft 365. 
-Admins walked through the setup of SSPR, added a user to the SSPR security group, and assumed the role of a user to experience the registration and password reset processes. 
-The lab also covered the admin's perspective on viewing audit logs and usage & insights data associated with SSPR. 
+This Microsoft Entra Self-Service Password Reset (SSPR) set of tasks were dedicated to the activation and configuration of the SSPR feature in Microsoft 365. 
+The focus encompassed guiding administrators through the setup of SSPR, incorporating a user into the SSPR security group, and assuming the user role to undergo the registration and password reset processes. The set of tasks also delved into the admin's perspective on auditing logs and analyzing usage & insights data associated with SSPR.
 </br> 
 </br>
  
 <h2>Part one</h2>
+<h3>Administrative Configuration of SSPR Settings</h3>
 
-This task aimed to provide admins with an understanding of the available configuration settings for SSPR. </br>
-It covered aspects such as group settings, authentication methods, registration requirements, and notification preferences, preparing for subsequent user and admin activities.
-</br>
+This task aimed to provide administrators with a comprehensive understanding of available configuration settings for SSPR. It covered critical aspects such as group settings, authentication methods, registration requirements, and notification preferences, preparing for subsequent user and admin activities. </br>
 
-I started this Task by accessing the admin center via Microsoft Edge, logged in with admin credentials, and navigated to Password reset settings.
-There, I configured self-service password reset properties, including group settings, authentication methods, registration requirements, and notification preferences. </br>
-I also explored audit logs and usage data, gaining insights into security events and user behavior related to password resets. 
+I initiated this task by accessing the admin center via Microsoft Edge, logging in with administrative credentials, and navigating to Password reset settings. There, I configured self-service password reset properties, encompassing group settings, authentication methods, registration requirements, and notification preferences. Additionally, I explored audit logs and usage data, gaining valuable insights into security events and user behavior related to password resets. </br>
 
-By completing this task, I gained insight into the administrative configuration of SSPR settings, laying the foundation for user interactions and password reset processes.
+Completion of this task provided an in-depth insight into the administrative configuration of SSPR settings, laying the foundation for user interactions and password reset processes.
 </br> 
 </br>
 
 <h2>Part Two</h2>
+<h3>User Inclusion in the SSPR Security Group</h3>
 
-This task demonstrated the administrative process of adding a user to the SSPR security group, enabling them to utilize the SSPR feature.
-</br>
+This task demonstrated the administrative process of adding a user to the SSPR security group, ensuring their ability to leverage the SSPR feature.</br>
 
-In this task, I simulated managing user access within the Microsoft Entra environment. </br>
-Firstly, I accessed the Microsoft Entra Admin Center and navigated to Identity > Groups > All groups, gaining access to the comprehensive list of groups within the system. </br>
-Next, I specifically searched for and selected the SSPRSecurityGroupUsers.</br> 
-Then, I added the previously created user, Sara Perez, to the SSPR security group, ensuring her inclusion in the designated security parameters.
-Finally, I verified the successful addition of Sara Perez to the SSPR security group, ensuring accurate and efficient user management. 
+Simulating user access management within the Microsoft Entra environment, I accessed the Microsoft Entra Admin Center and navigated to Identity > Groups > All groups. Specifically targeting the SSPRSecurityGroupUsers, I added the previously created user, Sara Perez, ensuring her inclusion within the designated security parameters. Verification of Sara Perez's successful addition to the SSPR security group was performed, ensuring accurate and efficient user management.</br>
+
+Completion of this task ensured the user, Sara Perez, was configured to actively participate in the SSPR process.
 </br>
 
 Completing this task ensured that the user, Sara Perez, is configured to participate in the SSPR process.
@@ -39,52 +34,42 @@ Completing this task ensured that the user, Sara Perez, is configured to partici
 </br>
 
 <h2>Part Three</h2>
+<h3>User-Side SSPR Registration Experience</h3>
 
-in this task I wanted to simulate the user-side experience of registering for SSPR, providing insights into the registration and authentication processes.
-</br>
+In this task, the goal was to simulate the user-side experience of registering for SSPR, providing valuable insights into the registration and authentication processes.</br>
 
-The first thing I did was access the Microsoft 365 login page as Sara Perez. 
-After successfully signing in, I navigated through the registration process for self-service password reset, a critical security measure. 
-This involved completing steps such as phone authentication or email verification, adding an additional layer of identity verification.</br>
-After completing the registration process, I ensured that Sara Perez's account was now equipped with enhanced security features. 
-Additionally, I confirmed the default sign-in method to ensure a seamless and secure user experience. 
-</br>
-
-This task provided valuable insights into the user's journey during SSPR registration, enhancing my knowledge of user interactions with SSPR.
+As Sara Perez, I accessed the Microsoft 365 login page, navigated through the registration process for self-service password reset, and completed steps such as phone authentication or email verification. This critical security measure added an additional layer of identity verification. After completing the registration process, Sara Perez's account was equipped with enhanced security features, and the default sign-in method was confirmed to ensure a seamless and secure user experience.</br>
+ 
+This task provided valuable insights into the user's journey during SSPR registration, enhancing understanding of user interactions with SSPR.
 </br> 
 </br>
  
 <h2>Part Four</h2>
+<h3>User-Side SSPR Password Reset Process</h3>
 
-The purpose of this task was to simulate the user's experience in resetting their password using the SSPR feature.
-</br>
+The purpose of this task was to simulate the user's experience in resetting their password using the SSPR feature.</br>
 
-In this task I initiated the password reset, prompting the system to guide me through verification steps, which were completed through either mobile phone or email authentication. Following successful verification, I entered a new password and confirmed the reset.</br>
-With the reset process finalized, I achieved successful sign-in using the newly established password. 
-</br>
+Initiating the password reset, the system guided me through verification steps, completed through either mobile phone or email authentication. Following successful verification, I entered a new password and confirmed the reset. With the reset process finalized, I achieved successful sign-in using the newly established password.</br>
 
-This task gave me a hands-on experience with the user-side password reset functionality within SSPR.
+This task provided a hands-on experience with the user-side password reset functionality within SSPR.
 </br>
 </br>
 
 <h2>Part Five</h2>
+<h3>Auditing and Analyzing SSPR Activities</h3>
 
-In this task I familiarised myself with accessing and analysing audit logs and usage & insights data related to SSPR activities.</br>
+In this task, the focus was on familiarizing myself with accessing and analyzing audit logs and usage & insights data related to SSPR activities.</br>
 
-Initially, I accessed the admin center and navigated to Password reset > Audit logs, where I reviewed information and available filters to track system activity. 
-To ensure comprehensive record-keeping, I downloaded audit logs in both CSV and JSON formats.</br>
-Finally I delved into the Usage & insights section, I explored registration and usage data associated with SSPR, providing a detailed overview of system interactions. </br>
-</br>
+Accessing the admin center, I navigated to Password reset > Audit logs, reviewed information, and utilized available filters to track system activity. To ensure comprehensive record-keeping, I downloaded audit logs in both CSV and JSON formats. Additionally, I delved into the Usage & insights section, exploring registration and usage data associated with SSPR, providing a detailed overview of system interactions.</br>
 
-This task provided insights into how admins can monitor and analyse audit logs and usage & insights data associated with SSPR, contributing to overall security awareness.
+This task provided insights into how administrators can monitor and analyze audit logs and usage & insights data associated with SSPR, contributing to overall security awareness.
 </br>
 </br>
 
 <h2>Concusion</h2>
 
-In this comprehensive set of tasks, I enabled self-service password reset (SSPR), configured relevant settings, added a user to the SSPR security group, and experienced the user-side processes of SSPR registration and password reset. </br>
-Additionally, I explored the admin perspective by reviewing audit logs and usage & insights data associated with SSPR activities. </br>
-This hands-on experience contributes to a better understanding of SSPR capabilities and administration within the Microsoft Entra environment.
+This comprehensive set of tasks involved enabling self-service password reset (SSPR), configuring relevant settings, adding a user to the SSPR security group, and experiencing the user-side processes of SSPR registration and password reset.</br> 
+Additionally, exploration from the admin perspective involved reviewing audit logs and usage & insights data associated with SSPR activities. This hands-on experience significantly contributes to a heightened understanding of SSPR capabilities and administration within the Microsoft Entra environment.
 </br>
 </br>
 
