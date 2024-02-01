@@ -7,7 +7,7 @@ This setup aimed to familiarise users with the process of enabling and confirmin
 <br/>
 <br/>
 
-<h3>Enabling the Audit log</h3>
+<h2>Enabling the Audit log</h2> 
 
 This task aimed to provide hands-on experience in enabling the audit log in Microsoft 365. It emphasized the importance of this feature for tracking user and admin activities, enabling insights for policies and analytics within the Microsoft 365 environment.
 
@@ -24,7 +24,7 @@ To confirm the successful setup, I returned to the home page of the Microsoft Pu
 This setup ensures that the audit log capability is activated, allowing for the tracking of user and admin activities for insights and compliance purposes.
 
 <br/>
-<h3>Conclusion</h3>
+<h2>Conclusion</h2>
 This setup task effectively covered the process of enabling the audit log capability in Microsoft 365. It highlighted the significance of this feature for user insights, policy enforcement, and analytics insights. The lab emphasized the hands-on experience of navigating through the Microsoft 365 admin center, enabling audit logging, and confirming the successful activation. This knowledge contributes to a better understanding of security and compliance practices within Microsoft 365.
 
 <br/>
