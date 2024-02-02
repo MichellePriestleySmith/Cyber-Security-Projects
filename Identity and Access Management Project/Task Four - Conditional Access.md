@@ -18,6 +18,11 @@ This task served as the foundation for further exploration, granting access to t
 </br> 
 </br>
 
+<p align="center">
+<img src="https://i.imgur.com/loAbj3o.png" width="600" height="400">
+<br />
+<p align="left"><br />
+ 
 <h2>Part Two</h2>
 <h3>Creation of Conditional Access Policy for Multi-Factor Authentication</h3>
 
@@ -29,6 +34,11 @@ This task provided insights into the creation and implementation of a Conditiona
 </br>
 </br>
 
+<p align="center">
+<img src="https://i.imgur.com/otjy2ZJ.png" width="600" height="400">
+<br />
+<p align="left"><br />
+ 
 <h2>Part Three</h2>
 <h3>User Experience of Conditional Access Policy</h3>
 
@@ -40,6 +50,11 @@ This task offered a valuable perspective from the user's standpoint, highlightin
 </br>
 </br>
 
+<p align="center">
+<img src="https://i.imgur.com/ZoOhZDA.png" width="600" height="400">
+<br />
+<p align="left"><br />
+ 
 <h2>Conclusion</h2>
 
 This task constituted an in-depth exploration of Microsoft Entra ID, highlighting its seamless integration with Microsoft 365. It underscored the flexibility of accessing Microsoft Entra ID features through both the Microsoft 365 admin portal and the Azure portal. The user walkthrough included creating a new user, configuring settings, exploring role options, and managing licences. This hands-on experience solidified my understanding of Microsoft Entra ID capabilities, particularly in user and licence management.
