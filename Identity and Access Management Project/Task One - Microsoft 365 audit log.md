@@ -15,12 +15,10 @@ To verify the efficacy of the setup, I returned to the home page of the Microsof
 <br/>
 
 <p align="center">
-Microsoft 365 audit log: <br/>
-<img src="https://i.imgur.com/tEwHrKZ.png"/>
+<img src="https://i.imgur.com/tEwHrKZ.png" width="600" height="400">
 <br />
 <p align="left"><br />
- <br/>
-  
+ 
 <h2>Conclusion</h2>
 This setup task comprehensively covered the process of enabling the audit log capability in Microsoft 365. It underscored the importance of this feature for user insights, policy enforcement, and analytics within the Microsoft 365 environment. The lab provided hands-on experience in navigating the Microsoft 365 admin center, enabling audit logging, and confirming successful activation. This acquired knowledge contributes to a heightened understanding of security and compliance practices within the Microsoft 365 ecosystem.
 
