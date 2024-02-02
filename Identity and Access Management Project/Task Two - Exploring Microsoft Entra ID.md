@@ -26,6 +26,11 @@ This task demonstrated proficiency in creating and configuring users in Microsof
 <br/>
 <br/>
 
+<p align="center">
+<img src="https://i.imgur.com/iFIl7Ws.png" width="600" height="400">
+<br />
+<p align="left"><br />
+ 
 <h2>Part Two</h2> 
 <h3>Initial Sign-In as Sara Perez</h3>
 
@@ -40,6 +45,12 @@ Completing this task provided first-hand experience in the user's journey, empha
 <br/>
 <br/>
 
+<p align="center">
+<img src="https://i.imgur.com/Ypw0zPH.png" width="600" height="400">
+<br />
+<p align="left">
+<br />
+  
 <h2>Concusion</h2>
 This task constituted an in-depth exploration of Microsoft Entra ID, highlighting its seamless integration with Microsoft 365. It underscored the flexibility of accessing Microsoft Entra ID features through both the Microsoft 365 admin portal and the Azure portal. The user walkthrough included creating a new user, configuring settings, exploring role options, and managing licences. This hands-on experience solidified my understanding of Microsoft Entra ID capabilities, particularly in user and licence management.
 
