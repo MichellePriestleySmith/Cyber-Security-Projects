@@ -19,6 +19,11 @@ Completion of this task provided an in-depth insight into the administrative con
 </br> 
 </br>
 
+<p align="center">
+<img src="https://i.imgur.com/eN1eNJw.png" width="600" height="400">
+<br />
+<p align="left"><br />
+ 
 <h2>Part Two</h2>
 <h3>User Inclusion in the SSPR Security Group</h3>
 
@@ -33,6 +38,11 @@ Completing this task ensured that the user, Sara Perez, is configured to partici
 </br>
 </br>
 
+<p align="center">
+<img src="https://i.imgur.com/7OE5tM8.png" width="600" height="400">
+<br />
+<p align="left"><br />
+ 
 <h2>Part Three</h2>
 <h3>User-Side SSPR Registration Experience</h3>
 
@@ -43,6 +53,11 @@ As Sara Perez, I accessed the Microsoft 365 login page, navigated through the re
 This task provided valuable insights into the user's journey during SSPR registration, enhancing understanding of user interactions with SSPR.
 </br> 
 </br>
+ 
+<p align="center">
+<img src="https://imgur.com/r81uLrB.png" width="600" height="400">
+<br />
+<p align="left"><br />
  
 <h2>Part Four</h2>
 <h3>User-Side SSPR Password Reset Process</h3>
@@ -55,6 +70,11 @@ This task provided a hands-on experience with the user-side password reset funct
 </br>
 </br>
 
+<p align="center">
+<img src="https://i.imgur.com/yAwa8HS.png" width="600" height="400">
+<br />
+<p align="left"><br />
+ 
 <h2>Part Five</h2>
 <h3>Auditing and Analyzing SSPR Activities</h3>
 
@@ -66,6 +86,11 @@ This task provided insights into how administrators can monitor and analyze audi
 </br>
 </br>
 
+<p align="center">
+<img src="https://i.imgur.com/7e0qPRd.png" width="600" height="400">
+<br />
+<p align="left"><br />
+ 
 <h2>Concusion</h2>
 
 This comprehensive set of tasks involved enabling self-service password reset (SSPR), configuring relevant settings, adding a user to the SSPR security group, and experiencing the user-side processes of SSPR registration and password reset.</br> 
