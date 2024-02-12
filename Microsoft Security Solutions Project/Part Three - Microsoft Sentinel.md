@@ -2,7 +2,7 @@
 
 <h2>Objective</h2>
 
-The objective of this activity was to familiarize with Microsoft Sentinel, a cloud-native Security Information and Event Management (SIEM) service provided by Microsoft. 
+The objective of this activity was to familiarise with Microsoft Sentinel, a cloud-native Security Information and Event Management (SIEM) service provided by Microsoft. 
 Through these tasks, participants gained practical experience in creating a Microsoft Sentinel instance, setting up necessary permissions, deploying solutions, and exploring key functionalities within the platform. 
 This exploration laid the foundation for effective threat detection, mitigation, and security management in cloud environments.
 <br/>
@@ -38,7 +38,7 @@ This task focused on assigning necessary role permissions to users supporting Mi
   2. Reviewed current permissions and explored available roles specific to Microsoft Sentinel.
   3. Reviewed role details and returned to the access control page.
 
-Task Two emphasized establishing proper permissions, ensuring users have the necessary roles to manage and support Microsoft Sentinel effectively.
+Task Two emphasised establishing proper permissions, ensuring users have the necessary roles to manage and support Microsoft Sentinel effectively.
 <br/>
 <br/>
 
@@ -87,7 +87,7 @@ Task Four showcased the diverse functionalities available in Microsoft Sentinel,
 <p align="left"><br />
 <br/>
 
-<h2>Concusion</h2>
+<h2>Conclusion</h2>
 Through the completion of these tasks, valuable insights and practical knowledge about Microsoft Sentinel were gained. 
 The exploration encompassed creating a Microsoft Sentinel instance, setting up permissions, deploying solutions, and exploring key functionalities. 
 These tasks equipped with essential skills and knowledge to leverage Microsoft Sentinel effectively for threat detection, response, and mitigation in organizational environments.
