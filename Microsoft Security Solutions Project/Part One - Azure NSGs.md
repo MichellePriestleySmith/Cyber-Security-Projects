@@ -50,11 +50,11 @@ Task Two demonstrated administrative steps involved in creating and configuring 
 <br/>
 
 <p align="center">
-<img src="https://i.imgur.com/RVSdgcX.png" width="600" height="400">
+<img src="https://i.imgur.com/01ZM5Mn.png" width="600" height="400">
 <br />
 <p align="left"><br />
 <br/>
-  
+ 
 <h2>Part Three</h2> 
 <h3>Testing Inbound Rule and Outbound Internet Connectivity</h3>
 
@@ -70,11 +70,11 @@ Task Three provided a user perspective, validating the successful implementation
 <br/>
 
 <p align="center">
-<img src="https://i.imgur.com/01ZM5Mn.png" width="600" height="400">
+<img src="https://i.imgur.com/WjqEed0.png" width="600" height="400">
 <br />
 <p align="left"><br />
 <br/>
-
+ 
 <h2>Part Four</h2> 
 <h3>Creating Custom Outbound Rule and Testing</h3>
 
@@ -91,7 +91,7 @@ Task Four highlighted the ability to customize outbound rules for specific scena
 <br/>
 
 <p align="center">
-<img src="https://i.imgur.com/WjqEed0.png" width="600" height="400">
+<img src="https://i.imgur.com/B1GJJ34.png" width="600" height="400">
 <br />
 <p align="left"><br />
 <br/>
