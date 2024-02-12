@@ -1,6 +1,5 @@
 # Azure Network Security Groups (NSGs)
 
-
 <h2>Objective</h2>
 
 The objective of this activity was to gain a comprehensive understanding of network security configurations using Azure's Network Security Groups (NSGs) 
