@@ -85,7 +85,7 @@ In this task, the objective was to create a custom outbound rule to block Intern
   4. Waited for the rule to take effect and attempted to access www.bing.com.
   5. Confirmed the page did not display, indicating the effectiveness of the custom rule.
 
-Task Four highlighted the ability to customize outbound rules for specific scenarios, demonstrating the flexibility of NSGs in controlling outbound traffic.
+Task Four highlighted the ability to customise outbound rules for specific scenarios, demonstrating the flexibility of NSGs in controlling outbound traffic.
 <br/>
 <br/>
 
@@ -95,11 +95,12 @@ Task Four highlighted the ability to customize outbound rules for specific scena
 <p align="left"><br />
 <br/>
 
-<h2>Concusion</h2>
+<h2>Conclusion</h2>
 
 In conclusion, Activity One provided a comprehensive exploration of Azure Network Security Groups (NSGs) and their functionalities. 
-It facilitated understanding of VM parameters, creation and configuration of NSGs, testing inbound and outbound connectivity, and customization of rules to meet specific security requirements. 
+It facilitated understanding of VM parameters, creation and configuration of NSGs, testing inbound and outbound connectivity, and customisation of rules to meet specific security requirements. 
 Through these tasks, valuable insights were gained, contributing to the development of skills essential for cybersecurity roles.
-
+<br/>
+<br/>
 
 
