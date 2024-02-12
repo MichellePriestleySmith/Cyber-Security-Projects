@@ -42,7 +42,7 @@ This task aimed to understand how to manage Microsoft Defender for Cloud plans, 
   3. Ensured the status of CSPM (Cloud Security Posture Management) was set to On.
   4. Enabled the plan for Servers and saved the changes.
 
-Task Two provided practical insights into managing Microsoft Defender for Cloud plans, allowing customization of enhanced security features. The ability to enable specific plans showcased the platform's adaptability to meet varying security needs.
+Task Two provided practical insights into managing Microsoft Defender for Cloud plans, allowing customisation of enhanced security features. The ability to enable specific plans showcased the platform's adaptability to meet varying security needs.
 <br/>
 <br/>
 
@@ -52,7 +52,8 @@ Task Two provided practical insights into managing Microsoft Defender for Cloud 
 <p align="left"><br />
 <br/>
   
-<h2>Concusion</h2>
+<h2>Conclusion</h2>
 Through the completion of these tasks, valuable knowledge and practical experience with Microsoft Defender for Cloud were gained. The exploration encompassed resource health assessment, recommendations, regulatory compliance controls, and management of Defender for Cloud plans. These tasks equipped with essential skills and understanding to leverage Microsoft Defender for Cloud effectively in securing cloud infrastructures and mitigating potential threats.
-
+<br/>
+<br/>
 
