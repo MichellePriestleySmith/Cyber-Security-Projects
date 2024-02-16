@@ -9,7 +9,7 @@ Tasks encompassed exploring Cloud Discovery, the Cloud App Catalog, Activity Log
 <br/>
 <br/>
 
-<h2>Part One</h2> 
+<h2>Task One</h2> 
 <h3>Explore Cloud Discovery</h3>
 
 This task aimed to understand the capabilities of Cloud Discovery, focusing on the Cloud Discovery dashboard, Discovered apps, IP addresses, Users, and the setup of app connectors.
@@ -30,7 +30,7 @@ Task One provided a comprehensive overview of the Cloud Discovery feature, empha
 <p align="left"><br />
 <br/>
 
-<h2>Part Two</h2> 
+<h2>Task Two</h2> 
 <h3>Explore the Cloud App Catalog</h3>
 
 This task involved exploring the Cloud app catalog to analyse traffic logs against a vast database of cloud apps, providing insights into app risk scores, compliance, and security factors.
@@ -50,7 +50,7 @@ Task Two focused on the Cloud app catalog, showcasing its capabilities in evalua
 <p align="left"><br />
 <br/>
 
-<h2>Part Three</h2> 
+<h2>Task Three</h2> 
 <h3>Explore the Activity Log and Files</h3>
 
 This task involved investigating recorded activities using the Activity Log and gaining visibility into files stored in connected apps.
@@ -70,7 +70,7 @@ Task Three highlighted the capabilities of investigating activities through the 
 <p align="left"><br />
 <br/>
 
-<h2>Part Four</h2> 
+<h2>Task Four</h2> 
 <h3>Explore Policies</h3>
 
 This task focused on exploring and understanding policies within Microsoft Defender for Cloud Apps, including policy management, creation of new policies, and export options.
