@@ -51,7 +51,7 @@ Completing this task provided first-hand experience in the user's journey, empha
 <p align="left">
 <br />
   
-<h2>Concusion</h2>
+<h2>Conclusion</h2>
 This task constituted an in-depth exploration of Microsoft Entra ID, highlighting its seamless integration with Microsoft 365. It underscored the flexibility of accessing Microsoft Entra ID features through both the Microsoft 365 admin portal and the Azure portal. The user walkthrough included creating a new user, configuring settings, exploring role options, and managing licences. This hands-on experience solidified my understanding of Microsoft Entra ID capabilities, particularly in user and licence management.
 
 
