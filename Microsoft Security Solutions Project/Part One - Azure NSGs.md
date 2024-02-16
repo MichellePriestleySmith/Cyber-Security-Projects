@@ -9,7 +9,7 @@ created and configured NSGs to manage inbound and outbound traffic effectively, 
 <br/>
 <br/>
 
-<h2>Part One</h2> 
+<h2>Task One</h2> 
 <h3>Learning Virtual Machine Parameters</h3>
 
  In this task, the goal was to gain an understanding of the basic parameters associated with the pre-existing virtual machine (VM) intended for use in this project.  <br/>
@@ -31,7 +31,7 @@ Task One provided insights into the initial state of the VM, establishing a foun
 <p align="left"><br />
 <br/>
  
-<h2>Part Two</h2> 
+<h2>Task Two</h2> 
 <h3>Network Security Groups</h3>
   
 The objective of this task was to create an NSG, associate it with the VM's network interface, and establish an inbound rule for Remote Desktop Protocol (RDP) traffic.
@@ -54,7 +54,7 @@ Task Two demonstrated administrative steps involved in creating and configuring 
 <p align="left"><br />
 <br/>
  
-<h2>Part Three</h2> 
+<h2>Task Three</h2> 
 <h3>Testing Inbound Rule and Outbound Internet Connectivity</h3>
 
 This task aimed to test the newly created inbound rule for RDP and verify outbound connectivity to the Internet from the VM.
@@ -74,7 +74,7 @@ Task Three provided a user perspective, validating the successful implementation
 <p align="left"><br />
 <br/>
  
-<h2>Part Four</h2> 
+<h2>Task Four</h2> 
 <h3>Creating Custom Outbound Rule and Testing</h3>
 
 In this task, the objective was to create a custom outbound rule to block Internet traffic and test its effectiveness.
