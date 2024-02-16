@@ -8,7 +8,7 @@ This exploration laid the foundation for effective threat detection, mitigation,
 <br/>
 <br/>
 
-<h2>Part One</h2> 
+<h2>Task One</h2> 
 <h3>Create a Microsoft Sentinel Instance</h3>
 
 This task aimed to create a Microsoft Sentinel instance, establishing the foundational workspace for threat detection and mitigation.
@@ -29,7 +29,7 @@ Task One successfully laid the groundwork by creating a Microsoft Sentinel insta
 <p align="left"><br />
 <br/>
 
-<h2>Part Two</h2> 
+<h2>Task Two</h2> 
 <h3>Set Up Permissions for Microsoft Sentinel</h3>
 
 This task focused on assigning necessary role permissions to users supporting Microsoft Sentinel, ensuring proper access.
@@ -48,7 +48,7 @@ Task Two emphasised establishing proper permissions, ensuring users have the nec
 <p align="left"><br />
 <br/>
 
-<h2>Part Three</h2> 
+<h2>Task Three</h2> 
 <h3>Microsoft Defender for Cloud Solution</h3>
 
 This task involved connecting to a data source by deploying the Microsoft Defender for Cloud solution through the Microsoft Sentinel Content hub.
@@ -68,7 +68,7 @@ Task Three demonstrated practical steps in connecting to data sources, deploying
 <p align="left"><br />
 <br/>
 
-<h2>Part Four</h2> 
+<h2>Task Four</h2> 
 <h3>Microsoft Sentinel Functionalities</h3>
 
 This task focused on exploring key functionalities within Microsoft Sentinel, including hunting, MITRE ATT&CK, community insights, analytics rules, automation, and workbooks.
