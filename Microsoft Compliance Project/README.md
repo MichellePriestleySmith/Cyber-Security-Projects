@@ -9,11 +9,6 @@ The project's objective was to provide a detailed walkthrough of setting up and 
 
 <h2>Skills Utilised</h2>
 
-<br/>
-<br/>
-
-<h2>Skills Utilised</h2>
-
 - <b>Technical Proficiency with Microsoft Purview:</b> Demonstrated a comprehensive understanding of Microsoft Purview to navigate through the compliance portal, configure settings, and execute various tasks within the platform.
 - <b>Role Management and Permissions:</b> Applied knowledge of role-based access control to manage permissions and assign roles, ensuring appropriate access to features and functionalities for different users.
 - <b>Policy Configuration and Management:</b> Proficiently configured policies for sensitivity labels, insider risk management, and eDiscovery (Standard), ensuring alignment with organisational compliance requirements.
