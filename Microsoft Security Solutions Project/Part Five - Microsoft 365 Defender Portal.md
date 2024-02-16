@@ -8,7 +8,7 @@ Additionally, the tasks sought to delve into Microsoft Secure Score, a vital too
 <br/>
 <br/>
 
-<h2>Part One</h2> 
+<h2>Task One</h2> 
 <h3>Microsoft 365 Defender Landing Page</h3>
 
 This task focused on understanding the layout and customisation options of the Microsoft 365 Defender portal landing page.
@@ -23,7 +23,7 @@ Task One introduced the Microsoft 365 Defender portal, emphasising its user-cust
 <br/>
 <br/>
 
-<h2>Part Two</h2> 
+<h2>Task Two</h2> 
 <h3>Microsoft Secure Score</h3>
 
 This task involved exploring Microsoft Secure Score, a tool that measures an organisation's security posture, and understanding its features such as overview, recommended actions, history, and metrics & trends.
