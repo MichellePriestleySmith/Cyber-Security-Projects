@@ -91,7 +91,7 @@ This task provided insights into how administrators can monitor and analyze audi
 <br />
 <p align="left"><br />
  
-<h2>Concusion</h2>
+<h2>Conclusion</h2>
 
 This comprehensive set of tasks involved enabling self-service password reset (SSPR), configuring relevant settings, adding a user to the SSPR security group, and experiencing the user-side processes of SSPR registration and password reset.</br> 
 Additionally, exploration from the admin perspective involved reviewing audit logs and usage & insights data associated with SSPR activities. This hands-on experience significantly contributes to a heightened understanding of SSPR capabilities and administration within the Microsoft Entra environment.
