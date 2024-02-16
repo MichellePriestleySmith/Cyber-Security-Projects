@@ -9,7 +9,7 @@ and managing Defender for Cloud plans. By engaging in these tasks, one gained pr
 <br/>
 <br/>
 
-<h2>Part One</h2> 
+<h2>Task One</h2> 
 <h3>Defender for Cloud Capabilities</h3>
 
 The goal of this task was to gain a comprehensive understanding of Microsoft Defender for Cloud's capabilities, focusing on resource health assessment, recommendations, and regulatory compliance controls.
@@ -32,7 +32,7 @@ The hands-on experience enhanced familiarity with the platform's functionalities
 <p align="left"><br />
 <br/>
 
-<h2>Part Two</h2> 
+<h2>Task Two</h2> 
 <h3> Managing Defender for Cloud Plans</h3>
 
 This task aimed to understand how to manage Microsoft Defender for Cloud plans, specifically focusing on enabling/disabling enhanced security features and plans for Servers.
